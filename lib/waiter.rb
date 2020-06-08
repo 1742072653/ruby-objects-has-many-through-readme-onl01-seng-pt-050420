@@ -10,6 +10,8 @@ class Waiter
     @@all << self
   end
  
+ def new_meal
+   
   def self.all
     @@all
   end
